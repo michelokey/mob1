@@ -20,5 +20,5 @@
         Your Name
         </author>
 
-<gap:plugin name="org.apache.cordova.device" />
+
     </widget>
